@@ -67,7 +67,7 @@ export default function Home() {
                 <li>CS 345: Practice and Applications of Data Management</li>
                 <li>CS 121: Problem Solving with Computers</li>
                 <li>CS 220: Programming Methodologies</li>
-                <li>CS 240: Reading Under Uncertainty</li>
+                <li>CS 240: Reasoning Under Uncertainty</li>
                 <li>CS 446: Search Engines</li>
                 <li>CICS 305: Social Issues in Computing</li>
                 <li>CS 326: Web Programming</li>
