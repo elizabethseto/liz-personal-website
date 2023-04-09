@@ -111,7 +111,7 @@ export default function Home() {
               <br></br>
               <p className="text-md font-medium">Software Development Co-op, Solaria Labs</p>
               <p className="text-sm">January 2022 - June 2022</p>
-              <p>Full-stack development in Dwellbeing app, an Android and iOS application for personalized home maintenance tasks; implemented/debugged multiple frontend and backend features.</p>
+              <p className="text-sm">Full-stack development in Dwellbeing app, an Android and iOS application for personalized home maintenance tasks; implemented/debugged multiple frontend and backend features.</p>
               <br></br>
               <p className="text-sm"><span className="text-sm font-medium">Skill:</span> Amazon Web Services (AWS) · Dart · Express.js · Flutter · JavaScript · MySQL · Node.js · React.js</p>
             </div>
