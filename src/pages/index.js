@@ -94,17 +94,17 @@ export default function Home() {
             <div className="text-left shadow-lg p-10 rounded-xl my-10">
               <h3 className="text-2xl text-center font-medium pt-8 pb-2">Experience</h3>
               <p className="text-md font-medium">Associate Software Engineer, Liberty Mutual Insurance</p>
-              <p>January 2023 - PRESENT</p>
+              <p className="text-sm">January 2023 - PRESENT</p>
               <br></br>
               <p className="text-sm"><span className="text-sm font-medium">Skill:</span> Amazon Web Services (AWS) · Angular · JavaScript · Jest · Microsoft Azure · Node.js · Python (Programming Language) · TypeScript</p>
               <br></br>
               <p className="text-md font-medium">Technology Associate, Liberty Mutual Insurance</p>
-              <p>September 2022 - January 2023</p>
+              <p className="text-sm">September 2022 - January 2023</p>
               <br></br>
               <p className="text-sm"><span className="text-sm font-medium">Skill:</span> Amazon Web Services (AWS) · Angular · JavaScript · Jest · Microsoft Azure · Node.js · Python (Programming Language) · TypeScript</p>
               <br></br>
               <p className="text-md font-medium">Software Engineer Intern, Liberty Mutual Insurance</p>
-              <p>June 2022 - September 2022</p>
+              <p className="text-sm">June 2022 - September 2022</p>
               <p className="text-sm">Full-stack development on Architecture, Cloud and Engineering Enablement Team; build cloud infrastructure and products to support application teams.</p>
               <br></br>
               <p className="text-sm"><span className="text-sm font-medium">Skill:</span> Amazon Web Services (AWS) · Angular · JavaScript · Jest · Microsoft Azure · Node.js · Python (Programming Language) · TypeScript</p>
