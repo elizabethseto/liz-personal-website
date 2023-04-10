@@ -17,7 +17,7 @@ export default function Home() {
           </nav>
           <div className="text-center p-5">
             <h2 className="text-5xl py-2 text-pink-400 font-medium md:text-6xl max-w-xl mx-auto">Elizabeth Seto</h2>
-            <h3 className="text-2xl py-2 md:text-3xl dark:text-white">software developer</h3>
+            <h3 className="text-2xl py-2 md:text-3xl dark:text-white text-black">software developer</h3>
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl">
               I'm software engineer based in Seattle, Washington. I have interest in full-stack software development, artificial intelligence, game development and everything else in-between.
             </p>
@@ -36,19 +36,19 @@ export default function Home() {
         </section>
         <section>
           <div>
-            <h3 className="text-center text-3xl py-1">About Me</h3>
-            <p className="text-md py-2 leading-8 text-gray">
+            <h3 className="text-center text-3xl py-1 text-black">About Me</h3>
+            <p className="text-md py-2 leading-8 text-gray  text-black">
               I'm recent graduate from the University of Massachusetts Amherst with a computer science degree. Currently, I'm a <span className="text-pink-500">software engineer</span> at <span className="text-pink-500">Liberty Mutual Insurance</span>, building cloud products and infrastructure for application teams.
             </p>
           </div>
           <div className="lg:flex gap-5">
             <div className="text-center shadow-lg p-10 rounded-xl my-10">
-              <h3 className="text-xl font-medium pt-8 pb-2">Education</h3>
-              <p className="text-md py-2">
+              <h3 className="text-xl font-medium pt-8 pb-2  text-black">Education</h3>
+              <p className="text-md py-2  text-black">
                 University of Massachusetts Amherst, 2019 - 2022
               </p>
-              <p className="text-sm font-medium">Relevant Coursework:</p>
-              <ul className="text-sm">
+              <p className="text-sm font-medium  text-black">Relevant Coursework:</p>
+              <ul className="text-sm  text-black">
                 <li>INFO 203: A Networked World</li>
                 <li>CS 311: Algorithms</li>
                 <li>CS 383: Artificial Intelligence</li>
@@ -73,12 +73,12 @@ export default function Home() {
                 <li>CS 326: Web Programming</li>
               </ul>
             </div>
-            <div className="text-center shadow-lg p-10 rounded-xl my-10">
-              <h3 className="text-2xl font-medium pt-8 pb-2">Skills</h3>
-              <p className="text-sm py-2 leading-8 text-gray md:text-xl">
+            <div className="text-center text-black shadow-lg p-10 rounded-xl my-10">
+              <h3 className="text-2xl text-black font-medium pt-8 pb-2">Skills</h3>
+              <p className="text-sm py-2 leading-8 text-gray md:text-l">
                 Here are some other <span className="text-pink-500">technologies</span> I work with:
               </p>
-              <ul className="text-sm">
+              <ul className="text-sm text-black">
                 <li>Amazon Web Services</li>
                 <li>Microsoft Azure</li>
                 <li>Angular</li>
@@ -91,8 +91,8 @@ export default function Home() {
                 <li>Python</li>
               </ul>
             </div>
-            <div className="text-left shadow-lg p-10 rounded-xl my-10">
-              <h3 className="text-2xl text-center font-medium pt-8 pb-2">Experience</h3>
+            <div className="text-left text-black shadow-lg p-10 rounded-xl my-10">
+              <h3 className="text-2xl text-center font-medium pt-8 pb-2  text-black">Experience</h3>
               <p className="text-md font-medium">Associate Software Engineer, Liberty Mutual Insurance</p>
               <p className="text-sm">January 2023 - PRESENT</p>
               <br></br>
