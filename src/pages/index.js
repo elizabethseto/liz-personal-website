@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { AiFillLinkedin, AiFillGithub } from 'react-icons/ai';
 import Image from "next/legacy/image";
-import me from "public/me.jpeg";
+import me from "public/propic.jpg";
 
 export default function Home() {
 
@@ -19,7 +19,7 @@ export default function Home() {
             <h2 className="text-5xl py-2 text-pink-400 font-medium md:text-6xl max-w-xl mx-auto">Elizabeth Seto</h2>
             <h3 className="text-2xl py-2 md:text-3xl dark:text-white text-black">software developer</h3>
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl">
-              I'm software engineer based in Seattle, Washington. I have interest in full-stack software development, artificial intelligence, game development and everything else in-between.
+              I'm software engineer based in Seattle, Washington. I have interest in full-stack software development, artificial intelligence, game development and everything in-between.
             </p>
           </div>
           <div className="relative mx-auto rounded-full w-80 h-80 mt-20 overflow-hidden md:h-96 md:w-96">
@@ -92,7 +92,7 @@ export default function Home() {
               </ul>
             </div>
             <div className="text-left text-black shadow-lg p-10 rounded-xl my-10">
-              <h3 className="text-2xl text-center font-medium pt-8 pb-2  text-black">Experience</h3>
+              <h3 className="text-2xl text-center font-medium pt-8 pb-2 text-black">Experience</h3>
               <p className="text-md font-medium">Associate Software Engineer, Liberty Mutual Insurance</p>
               <p className="text-sm">January 2023 - PRESENT</p>
               <br></br>
